@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Facctorial",
+            "request": "launch",
+            "mainClass": "Facctorial",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "GuessNumberGame",
+            "request": "launch",
+            "mainClass": "GuessNumberGame",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
             "name": "OperatorPrecedence",
             "request": "launch",
             "mainClass": "OperatorPrecedence",
