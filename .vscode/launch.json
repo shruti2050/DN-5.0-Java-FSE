@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RecursiveFibo",
+            "request": "launch",
+            "mainClass": "RecursiveFibo",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
             "name": "Facctorial",
             "request": "launch",
             "mainClass": "Facctorial",
