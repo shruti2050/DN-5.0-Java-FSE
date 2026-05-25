@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperatorPrecedence",
+            "request": "launch",
+            "mainClass": "OperatorPrecedence",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "DN-5.0-Java-FSE_c24875a9"
+        },
+        {
+            "type": "java",
             "name": "EvenOdd",
             "request": "launch",
             "mainClass": "EvenOdd",
