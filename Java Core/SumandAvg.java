@@ -1,0 +1,23 @@
+import java.util.*;
+public class SumandAvg {
+
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter number of elements");
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        System.out.println("Enter number your elements");
+        for(int i =0; i < n; i++){
+            arr[i] = sc.nextInt();
+        }
+        int sum = 0;
+        int avg  = 0;
+        for(int j : arr){
+            sum = + j;
+        }
+        avg = sum/n;
+
+        System.out.println("Sum of Array is: " + sum + "\n" + "Average of Array is: " + avg);
+        
+    }
+}

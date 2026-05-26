@@ -16,5 +16,6 @@ public class RecursiveFibo {
             System.out.print(fibo(i) + " ");
         }
         // System.out.println("Fibonacci series up to " + fibo(n));
+        sc.close();
     }
 }
